@@ -1,0 +1,482 @@
+vector_index_block:
+  jurisdiction: Paraguay
+  iso: PY
+  block: 4
+  range: [286,380]
+  status: SCAFFOLDED_PENDING_VERIFICATION
+  vectors:
+    - vector_id: "PY-V-0286"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0287"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0288"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0289"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0290"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0291"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0292"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0293"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0294"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0295"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0296"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0297"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0298"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0299"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0300"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0301"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0302"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0303"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0304"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0305"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0306"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0307"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0308"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0309"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0310"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0311"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0312"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0313"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0314"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0315"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0316"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0317"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0318"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0319"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0320"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0321"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0322"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0323"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0324"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0325"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0326"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0327"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0328"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0329"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0330"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0331"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0332"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0333"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0334"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0335"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0336"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0337"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0338"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0339"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0340"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0341"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0342"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0343"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0344"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0345"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0346"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0347"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0348"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0349"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0350"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0351"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0352"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0353"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0354"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0355"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0356"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0357"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0358"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0359"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0360"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0361"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0362"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0363"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0364"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0365"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0366"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0367"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0368"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0369"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0370"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0371"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0372"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0373"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0374"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0375"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0376"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0377"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0378"
+      anchor: "Land inequality and indigenous rights"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0379"
+      anchor: "Stroessner dictatorship (1954-1989) and Operation Condor links (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PY-V-0380"
+      anchor: "Itaipu/Yacyreta hydro governance and debt context"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
