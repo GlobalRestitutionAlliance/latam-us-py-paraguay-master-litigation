@@ -1,0 +1,17 @@
+{
+  "url": "https://www.hrw.org/americas/paraguay",
+  "final_url": "https://www.hrw.org/americas/paraguay",
+  "title": "HRW - Paraguay",
+  "fetched_at": "2026-11-23T15:34:06.065796Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 175292,
+  "sha256": "03203f5c5f868470d1e9ed754d024e74e3a05d235a15c2b52c0af5586143688a",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
